@@ -1,8 +1,6 @@
 <h1 align="center">Hi! I'm Bhavishaya Bansal</h1>
 <h3 align="center">A passionate machine learning developer, problem solver from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhavishaya-Bansal&label=Profile%20views&color=0e75b6&style=flat" alt="Bhavishaya-Bansal" /> </p>
-
 - 🔭 I’m currently working on **Lunar Terrain Classier**
 
 - 🌱 I’m constantly upgrading my learning in **Machine Learning & Deep Learning**
