@@ -1,11 +1,11 @@
-<h1 align="center">Hi! I'm Bhavishaya Bansal</h1>
-<h3 align="center">A passionate machine learning developer, problem solver from India</h3>
+<h1 align="center">Hi! I'm Vishal</h1>
+<h3 align="center">A passionate person, problem solver from India</h3>
 
-- 🔭 I’m currently working on **Lunar Terrain Classier**
+- 🔭 I’m currently working on **my skills**
 
-- 🌱 I’m constantly upgrading my learning in **Machine Learning & Deep Learning**
+- 🌱 I’m constantly upgrading my learning in **web dev and problem solving**
 
-- 📫 How to reach me **bhavishayabansal31@gmail.com**
+- 📫 How to reach me **vishal@gmail.com**
 
 - ⚡ Fun fact **I think I can make work easy for others**
 
