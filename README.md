@@ -1,11 +1,11 @@
-<h1 align="center">Hi! I'm Vishal</h1>
-<h3 align="center">A passionate person, problem solver from India</h3>
+<h1 align="center">Hi! I'm Bhavishaya</h1>
+<h3 align="center">An AI enthusiast, problem solver from India</h3>
 
-- 🔭 I’m currently working on **my skills**
+- 🔭 I’m currently working on **Lunar Terrain Classification**
 
-- 🌱 I’m constantly upgrading my learning in **web dev and problem solving**
+- 🌱 I’m constantly upgrading my learning in **Machine Learning**
 
-- 📫 How to reach me **vishal@gmail.com**
+- 📫 How to reach me **bhavishayabansal31@gmail.com**
 
 - ⚡ Fun fact **I think I can make work easy for others**
 
