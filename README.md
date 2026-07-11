@@ -1,29 +1,37 @@
 # Bhavishaya Bansal
 
-> Backend Software Engineer designing high-throughput distributed systems & production AI architectures.
+> **Senior Systems Engineer** specializing in high-throughput distributed architectures, concurrency control, real-time communications, and applied AI engineering.
 
 ---
 
-### ⚡ Core Focus
+### 🌐 Architectural Focus
 
-*   **Concurrency & Performance:** Low-latency API design and thread-safe resource allocation (Java / Node.js).
-*   **Applied AI Engineering:** Architecting LLM-driven agents, RAG pipelines, and secure sandbox environments (Python / Llama 3).
-*   **Systems Design:** Building transaction-safe ledger architectures and scaling database performance.
-
----
-
-### 💼 Technical Stack
-
-*   **Languages:** Java, Node.js (JavaScript / TypeScript), Python, SQL (MySQL, PostgreSQL), Bash.
-*   **Systems & Infra:** REST APIs, Microservices, Docker, Git, Linux, Asterisk.
-*   **AI Integration:** LangChain, RAG, Vector Databases, Prompt Engineering.
+*   **High-Concurrency & Performance:** Designing thread-safe resource allocation systems, lock-free data structures, and low-latency APIs in Java and Node.js.
+*   **Real-Time Communications:** Architecting scalable VoIP/PBX telephony systems utilizing Asterisk and SIP protocol engines.
+*   **Applied AI Systems:** Designing autonomous agent workflows, RAG ingestion pipelines, and sandboxed execution environments for LLM orchestrations.
+*   **Data & Ledger Integrity:** Building transaction-safe systems and optimizing database engines (PostgreSQL/MySQL) for high write-load scenarios.
 
 ---
 
-### 🚀 Featured Project: Job Application Automation
-An enterprise-grade execution framework for target resume tailoring and outbound email campaigns:
-*   **Parallel Job Monitor:** Scans 240+ career pages (mapping Greenhouse, Lever, SmartRecruiters, Ashby, and Workday APIs in parallel) in under 11 seconds.
-*   **Bidirectional Sync:** Syncs tracker logs and IMAP bounce sheets in real-time via Google Apps Script.
+### 🛠️ Technical Ecosystem
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  Languages       │  Java • Python • Node.js (TypeScript) • SQL • Bash   │
+├──────────────────┼──────────────────────────────────────────────────────┤
+│  Infrastructure  │  Docker • Asterisk (VoIP) • PostgreSQL • Linux • Git  │
+├──────────────────┼──────────────────────────────────────────────────────┤
+│  Applied AI      │  LangChain • Llama 3 • Vector DBs • Agentic RAG      │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🚀 Highlighted Engineering: Job Application Automation
+An enterprise-grade orchestration system designed for high-frequency career-board harvesting, AI resume customization, and campaign delivery.
+*   **High-Speed Crawling:** Parallel execution engine mapping Greenhouse, Lever, SmartRecruiters, Ashby, and Workday APIs—scanning **240+ target career boards in under 11 seconds**.
+*   **Live Sync & Analytics:** Bidirectional tracking layer syncing campaign logs, email delivery status, and bounce blacklists in real-time via Google Apps Script Web Apps.
+*   **ATS Optimization Engine:** Custom LaTeX parser enforcing compile-time page budget constraints, character encoding corrections, and spacing alignment to ensure perfect ATS parsing.
 
 ---
 
@@ -36,7 +44,7 @@ An enterprise-grade execution framework for target resume tailoring and outbound
 
 ---
 
-### 📫 Connect
+### 📬 Contact & Networks
 
 *   **Email:** [bhavishayabansal31@gmail.com](mailto:bhavishayabansal31@gmail.com)
-*   **LinkedIn:** [linkedin/in/bhavishaya-bansal](https://www.linkedin.com/in/bhavishaya-bansal-a355651b7/)
+*   **LinkedIn:** [linkedin.com/in/bhavishaya-bansal](https://www.linkedin.com/in/bhavishaya-bansal-a355651b7/)
