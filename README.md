@@ -30,8 +30,8 @@ An enterprise-grade execution framework for target resume tailoring and outbound
 ### 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavishaya-Bansal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavishaya-Bansal&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Bhavishaya-Bansal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bhavishaya-Bansal&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%"/>
 </p>
 
 ---
