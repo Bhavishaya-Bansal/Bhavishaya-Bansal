@@ -16,35 +16,35 @@
 ### 🛠️ Technical Ecosystem & Profile
 
 ```text
-**++==+==+==+=--:-::......... . .....  :-:::     bhavishaya@bansal -------------------------------------
-+*++==+=======--::::......... ....     :-:::      OS: ....................... Windows 11, WSL (Ubuntu)
-+++=+=+====--=--::::......... .        :--::      Uptime: ................... 23 years, 8 months, 12 days
-+++=+=+====--=----::     .. .        ..:----      Role: ..................... Senior Systems Engineer
-==+===+=======--:::.-=**=::-.      ...::=---      IDE: ...................... VS Code, IntelliJ IDEA
-==========-=-+**-:=*@@@@@%%*=-.  ..:::--=--=     
-=+========--*@@@+=@@@@@@@@+-*+=#-.------====      Languages.Programming: ..... Java, Python, JavaScript, C++
-+**+======-+@@@@@@@@@@@@@@@%%#%@@---=-=-====      Languages.Database: ........ PostgreSQL, MySQL, Redis
-****+======*@@@@@@#***###%@@@@@@@+--=---+=+=      Languages.Other: ........... SQL, Bash, HTML/CSS, LaTeX
-**#**+=++==*@@@@@=-:..:...:-*@@@@-===--=++++     
-*###**==+===%@@@#++=-.     ..=@%=====--=***+      Domain.Expertise: .......... Distributed Systems, Concurrency
-*###*++=+++=+@@+*#*%@*- :+**=*@===++==-=****                                Real-Time VoIP Telephony (Asterisk)
-#####+++*+**=**::---::.  -++==+=++++====+**#                                Applied AI Integration (RAG/Agents)
-#####*++****+++:    .:: .     =+=++*+=+++#*#     
-%####***###%#++-:..:-==-+:.. .=++***+++++%##      - Highlighted Project --------------------------------
-%##%%###%@%@@@#-:..--:...:...-++**##++***%#%      Project: .................. Job Application Automation
-@%@@@%%%%@@@@@%*--......    -****###*#%#*%*+      Core Engine: .............. Parallel Career Crawler
-@@@@@%@@@@@@@@@#*++:     .:+%%#*#%%%*#%%#@%*                                Dynamic Resume Tailoring (LaTeX)
-@@@@@@@@@@@%#%@#+**#+++=-:##+*+-%@@@%%@%#@%%                                Live Google Sheets Integration
-@@@@@%##+#%#*#@%++=+***-.-@*.::.-+#%#%@%#@@%                                IMAP Auto Bounce-Tracking
-@%#=*##%++*%%#%*-=--:.   =@-:=:-::.:.=+*@@@%     
-=:=#=-=++#%**#- ...       =#%#*=+..::-.--=#@      - Contact --------------------------------------------
---:=%=+-***=##=*      .:--+#+...#=.-:--=. :+      Email: .................... bhavishayabansal31@gmail.com
-=.-++++#***=#+==-:   .+*##*:-::-++:*+===..-.      LinkedIn: ................. linkedin/in/bhavishaya-bansal
-  -=**:=#*-==-+*#=- .+=--: :+*-.=+. ==-==::-      Github: ................... github/Bhavishaya-Bansal
--+==+=+:=..=*+++*#*+=#+-::.-:-=-=-++=+===-+=     
-+*@*:+%:+-+===-++---++=:==:+..+#--*%=.:+=*%+      - GitHub Stats ---------------------------------------
-+++#@%#*-=#. *@. =#==-:+-=*-:*:.#@%*#+*%@@=-      Status: ................... Active Outreach Campaigns
-*+=#*+*#%*+**:+#*+=... +++: .+*#--+==**+@%+*      Daily API Calls: .......... Scans 240+ sites in 11s
+@@@@%%@%%%%%#*-=--::......... ....:... ==:::     bhavishaya@bansal -------------------------------------
+@@@@%%@#%%*#*#==-:::......:.......     -=-:-      OS: ....................... Windows 11, WSL (Ubuntu)
+@@%#@#@###*+=*===-::......:.....       -=---      Uptime: ................... 23 years, 8 months, 12 days
+@@@%@#@**#*+=#+=-..       ....      ...-====      Role: ..................... Senior Systems Engineer
+@@@@%#@#****+#-.                   .:.:-+=+=      IDE: ...................... VS Code, IntelliJ IDEA
+#@@@##@#**+#=                    ..:--==+=++     
+%@@@@@@#**+:                    .:-=+-+=++*+      Languages.Programming: ..... Java, Python, JavaScript, C++
+@@@@%#@%*#-                      .+=#=*+*+#*      Languages.Database: ........ PostgreSQL, MySQL, Redis
+@@@@@%%@%*                        ==#=*+**%#      Languages.Other: ........... SQL, Bash, HTML/CSS, LaTeX
+@@@@@@#@@:                        :++=++##@%     
+@@@@@@%@@                          +*=+#%@@@      Domain.Expertise: .......... Distributed Systems, Concurrency
+@@@@@@@@#                          +#*+#%@@@                                Real-Time VoIP Telephony (Asterisk)
+@@@@@@@@#                          *%%*#%@@@                                Applied AI Integration (RAG/Agents)
+@@@@@@@@@                          %@%%%#@@@     
+@@@@@@@@@:                        :@@@%%@@@@      - Highlighted Project --------------------------------
+@@@@@@@@@#                        #@%@@%@@@@      Project: .................. Job Application Automation
+@@@@@@@@@@+                      +@@@@@@@@@#      Core Engine: .............. Parallel Career Crawler
+@@@@@@@@@@@+                    +@@@@@@@@@@#                                Dynamic Resume Tailoring (LaTeX)
+@@@@@@@@@@@@+.                 =@@@@@@@@@@@%                                Live Google Sheets Integration
+@@@@@@%#*%@%#%*:             :-.=*%%%@@@@@@%                                IMAP Auto Bounce-Tracking
+@@%+#%%%**#@@%@%=:.      .=--*-=--:=:**#@@@@     
+#+*%==**+#@#%@= .:.       +%@%#+*:.:=*.==+#@      - Contact --------------------------------------------
+++-+@*#=*##*%@+*      :-==*%#::.%+.==+=#. -+      Email: .................... bhavishayabansal31@gmail.com
+*:+%*##%##%*%*#*+:   :#%@%#-*=--*#=%#%%#:.+.      LinkedIn: ................. linkedin/in/bhavishaya-bansal
+. +*%%=+@#++#=##%*+..#*=+- -@@+:#%..+#**#==+      Github: ................... github/Bhavishaya-Bansal
+-#=+*+*-*..*@%*#@%%%*@*--+-+-=++#=*++**++=%*     
+##@#-*%=#=#***=##+==###-##-#:.#@--#@+:-#=#@*      - GitHub Stats ---------------------------------------
+@%%%%@@%%=+%:.#@: +%=+=-*=*#==@-:#@%##+*@@@+=      Status: ................... Active Outreach Campaigns
+%%+%#+#%%#**#-+%%%*:::.***- .*#%==*+=**#@%**      Daily API Calls: .......... Scans 240+ sites in 11s
 ..+*##*=##=--:**%-=**-=##+=+#*+%*+*#::%%%##@      Deliverability: ........... Real-Time IMAP Blacklisted
 ```
 
